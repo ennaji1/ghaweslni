@@ -1,0 +1,5 @@
+.venv-robot/
+__pycache__/
+*.pyc
+controle/data/
+camera_reelle.yaml
